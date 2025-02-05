@@ -54,7 +54,8 @@ Even when datasets have identical statistical results, they can exhibit signific
 
 Imagine four different datasets with identical summary statistics (mean, variance, correlation, etc.). Despite these identical numerical results, the datasets can differ significantly when visualized. Here's an example of one such dataset:
 
-![dataset1](https://github.com/user-attachments/assets/8bca5c63-c516-40e3-9d9f-a48e59bdafcb)
+![4datasetswithidenticalresults](https://github.com/user-attachments/assets/86c5809e-2698-4b5c-9771-2b1c92748f9d)
+
 
 In this scatter plot, the relationship between variables X4 and Y4 is shown. The regression line suggests a moderate positive linear relationship, but the individual data points tell a more nuanced story.
 
